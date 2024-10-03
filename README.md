@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aparokshaui.github.io/meta-sqlite/">
+  <a href="https://aparokshaui.github.io/meta-sqlite">
   Documentation
   </a>
   ·
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-_SQLite for Meta_ is a simple extension for the [Meta](https://aparokshaui.github.io/Meta) framework remembering state data between app launches.
+_SQLite for Meta_ is a simple extension for the [Meta](https://aparokshaui.github.io/Meta) framework, remembering state data between app launches.
 
 ## Thanks
 
